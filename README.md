@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
 ✨ LawThinker: A Deep Research Legal Agent <br/>
 in Dynamic Environments
@@ -15,7 +17,7 @@ in Dynamic Environments
 
 ## 🎥 Demo
 
-
+https://github.com/user-attachments/assets/74cffceb-f4e3-488e-8dbf-668f2eca15aa
 
 
 
