@@ -63,7 +63,7 @@ bash src/run_J1-ENVS.sh
 
 ### Evaluation
 ```bash
-python src/run_J1-Eval.sh
+bash src/run_J1-Eval.sh
 ```
 
 ## 📄 License
